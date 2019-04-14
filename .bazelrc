@@ -1,0 +1,3 @@
+build --incompatible_allow_python_version_transitions
+build --incompatible_py3_is_default
+build --incompatible_py2_outputs_are_suffixed
